@@ -16,7 +16,10 @@
     height: 50px;
 }
 .navbar-brand img{
-    height: 50px;
+    position: absolute;
+    top: 0;
+    height: 80px;
+    width: 100px;
     margin-top: 0;
 }
 
