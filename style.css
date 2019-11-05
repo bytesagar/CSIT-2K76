@@ -12,8 +12,17 @@
 *{
     box-sizing: border-box;
 }
+.navbar-brand{
+    height: 50px;
+}
+.navbar-brand img{
+    height: 50px;
+    margin-top: 0;
+}
+
+
 #mainNavbar{
-    background: linear-gradient(to right,Blue,#72b5f3);
+    background: linear-gradient(to right,#72b5f3,blue);
 }
 .first-l{
     color: red;
@@ -57,7 +66,7 @@
         font-weight: 100;
         font-size: .8rem;
         display: inline; 
-        color: rgb(194, 164, 164);   
+        color: white;  
     }
     .description .lead {
         display: none;
