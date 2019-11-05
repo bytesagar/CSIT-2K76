@@ -57,8 +57,12 @@
     top: 30%;
     margin: auto;
     padding: 2em;
+   
     /* background-color: rgba(0,0,0,0.1); */
     
+}
+.description p{
+    color: white !important;
 }
 /* Description responsive */
 @media (max-width: 575px){
